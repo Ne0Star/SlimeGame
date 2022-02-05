@@ -1,0 +1,24 @@
+{
+    "effect": [{
+            "effectName": "Вес ",
+            "effectInfo": "От значения зависит вес слайма",
+            "effectImage": {
+                "instanceID": 16060
+            }
+        },
+        {
+            "effectName": "Скорость ",
+            "effectInfo": "От значения зависит скорость передвижения слайма ",
+            "effectImage": {
+                "instanceID": 16060
+            }
+        },
+        {
+            "effectName": "Липкость ",
+            "effectInfo": "От значения зависит время на которое слайм может прилипнуть ",
+            "effectImage": {
+                "instanceID": 16060
+            }
+        }
+    ]
+}
